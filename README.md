@@ -1,4 +1,4 @@
-# UBEr CLONE
+# Uber clone
 
 A frontend clone of the popular Uber app to showcase React Native 
 
